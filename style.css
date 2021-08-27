@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+html {
+    background: url('calculator.jpg') no-repeat center fixed;
+    background-size: cover;
+    width: 100%;
+}
+
+.container {
+    text-align: center;
+    margin-top: 25px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    font-size: 35px;
+    border: 4px solid rgb(146, 4, 4);
+    border-radius: 23px;
+}
+
+button {
+    font-size: 40px;
+    background-color: coral;
+    width: 102px;
+    height: 100px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.calculator {
+    display: inline-block;
+    background-color: rgb(8, 1, 53);
+    padding: 26px;
+    border-radius: 53px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.footer {
+    margin-top: 20px;
+    text-align: right;
+    margin-right: 30px;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.footer .social .uil {
+    padding: 15px;
+    text-decoration: none;
+    height: 30px;
+    width: 50px;
+}
