@@ -8,3 +8,4 @@ This Github repository explores on how to create a Basic Calculator website usin
 
 The website [Basic Calculator](https://soumyadeepmukherjee.github.io/Basic-Calculator/) looks like the following :
 
+![This is an image](https://github.com/SoumyadeepMukherjee/Basic-Calculator/blob/main/Images/demo-1.png)
