@@ -19,7 +19,6 @@ The website [Basic Calculator](https://soumyadeepmukherjee.github.io/Basic-Calcu
 
 ![This is an image](https://github.com/SoumyadeepMukherjee/Basic-Calculator/blob/main/Images/demo-1.png)
 
-Hope you will like the Basic Calculator Design & do drop a :star: if you do so!!
 
 Do follow me on [Twitter](https://twitter.com/Soumyadeep_LM10) , [Instagram](https://instagram.com/soumyadeep_._mukherjee10) & [Facebook](https://www.facebook.com/soumyadeep.mukherjee.54772)!!
 
